@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C++
 - 📫 How to reach me Xavierjmashton@gmail.Com
 - 
-- ⚡ Fun fact: ...
 
 <!---
 lapatatearmee/lapatatearmee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
