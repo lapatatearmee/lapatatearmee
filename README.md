@@ -5,6 +5,13 @@
 
 ###
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=EliotGIRAUD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EliotGIRAUD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <p align="left">I'm Xavier<br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning Node and React<br>- ⚡ In my free time I like to listen to music and game</p>
 
 ###
