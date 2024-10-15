@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">I'm Xavier<br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I like to listen to music and game</p>
+<p align="left">I'm Xavier<br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning Node and React<br>- ⚡ In my free time I like to listen to music and game</p>
 
 ###
 
